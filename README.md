@@ -39,3 +39,5 @@ DAX (Data Analysis Expressions) for creating measures (Total Sales, Avg Sales, R
 
 Interactive Visuals: Pie charts, bar charts, line graphs, slicers, and tables
 
+!(image alt)(https://github.com/Aditisharma1403/Blinkit/blob/9fb3e2b4732318cdfcee42d21ecf92a2dbe8279c/Screenshot%202025-04-10%20191105.png)
+
